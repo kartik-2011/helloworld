@@ -1,1 +1,1 @@
-print("Webhook Created Oh Yeah maa ki choooooo!")
+print("Webhook Created Oh Yeah!")
